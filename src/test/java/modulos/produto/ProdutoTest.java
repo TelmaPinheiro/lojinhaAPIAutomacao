@@ -29,7 +29,7 @@ public class ProdutoTest {
 
         baseURI = "http://165.227.93.41";
         // Port = 8080;
-        basePath = "/lojinha";
+        basePath = "/lojinha-bugada";
 
 
         // obter o token do usuario admin
